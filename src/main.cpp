@@ -247,6 +247,7 @@ void auton_selector() {
   screen::erase();
 }
 
+
 void disabled() {}
 void competition_initialize() {
   auton_selector();
